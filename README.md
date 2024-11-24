@@ -22,4 +22,5 @@ A personal portfolio website to showcase my projects, skills, and experience in 
 ## How to View  
 1. Clone the repository:  
    ```bash
-   git clone 
+   git clone https://github.com/rev-new03/portfolio.git
+   
